@@ -1,0 +1,12 @@
+{
+    "name": "wilder9/twig",
+    "authors": [
+        {
+            "name": "Elodie Billon",
+            "email": "elodie.billon1995@outlook.fr"
+        }
+    ],
+    "require": {
+        "twig/twig": "^2.7"
+    }
+}
